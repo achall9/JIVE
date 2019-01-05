@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "HomeVC.gotoDetail(_:):HomeVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.childViewControllers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainVC.actionClickTab(_:):MainVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "previousVC is HomeVC">
+            </PersistentString>
+            <PersistentString
+               value = "newVC is FeedDetailVC">
+            </PersistentString>
+            <PersistentString
+               value = "sender.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
